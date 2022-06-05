@@ -1,0 +1,19 @@
+#agregar,
+#titular {
+  background-color: #009dff;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+#agregar,
+#nombre {
+  margin: 5px;
+}
+#agregar,
+#importe {
+  margin: 5px;
+}
+
+#agregar {
+  text-align: center;
+}
